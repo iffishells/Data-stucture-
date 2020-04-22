@@ -1,4 +1,6 @@
 # Data-stucture-
-This contents contain the All Data structure code in python like Tree ,Graph, Linked list all types
-sequance to the Assignments
-unsolved ->Assignment_Number01.pdf solved -->>Assignment_Number01 solved in the form of Code
+### Semester Material
+As i mentioned its a Semester material about Data structure in python usaually all the univeristy doing in C++
+which is horrible idea becuase C++ is not using now days in the industry .My opinion is that **C++ is Dead skill**
+but its still using in the industry but we can hope so c++ has no future..
+
